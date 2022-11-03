@@ -1,4 +1,4 @@
-# Power-BI-Projects
+# Supply Chain Analysis Project
 The task was to develop a dashboard for the Atliq Mart team that would provide information on customer service levels and insights into a supply chain problem in the FMCG industry.
 
 Visualization Tool: Power BI
