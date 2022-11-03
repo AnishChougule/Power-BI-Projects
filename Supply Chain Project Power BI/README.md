@@ -11,8 +11,8 @@ Database: Excel
 
 1) Data cleaning and transformation in power query
 2) Data modeling
-3) Using DAX, creating measures
-4) Dashboard design
+3) Developing measures and visualizations using DAX
+4) Designing the dashboard
 
 I learned several things while working on this project:
 
