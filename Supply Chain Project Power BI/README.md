@@ -4,7 +4,8 @@ AtliQ Mart is currently facing a problem where several important clients of Atli
 
 The Supply Chain team decided to use a standard approach to gauge the degree of service, in which they will compare the daily percentages of customer orders that are delivered on-time, in-full, and on-time in full (OTIF) against the goal service level set for each customer.
 
-The task was to develop a dashboard for the Atliq Mart team that would provide information on customer service levels and insights into a supply chain problem in the FMCG industry.
+The task was to deve![Dashboard photo](https://user-images.githubusercontent.com/110670526/206758102-08705769-e508-4a50-9d65-9e5f149d19b9.jpg)
+lop a dashboard for the Atliq Mart team that would provide information on customer service levels and insights into a supply chain problem in the FMCG industry.
 
 Visualization Tool: Power BI
 Database: Excel
@@ -22,3 +23,5 @@ I learned several things while working on this project:
 4) Using buttons and bookmarks to toggle visuals on and off
 5) Visual conditional formatting
 6) Knowledge of the supply chain domain
+
+![Dashboard photo](https://user-images.githubusercontent.com/110670526/206758153-4df928d3-f6e0-4270-8dd2-a795ed2af29a.jpg)
